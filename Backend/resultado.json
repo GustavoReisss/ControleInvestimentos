@@ -1,0 +1,158 @@
+{
+    "titulos": [
+        {
+            "tipo": "CDB",
+            "descricao": "BANCO MASTER",
+            "valor": 1110.93
+        },
+        {
+            "tipo": "CDB",
+            "descricao": "BANCO PAN",
+            "valor": 1114.0
+        },
+        {
+            "tipo": "CDB",
+            "descricao": "BANCO MASTER",
+            "valor": 1096.45
+        },
+        {
+            "tipo": "BDR",
+            "descricao": "AMZO34",
+            "valor": 161.05
+        },
+        {
+            "tipo": "FII",
+            "descricao": "BCFF11",
+            "valor": 71.81
+        },
+        {
+            "tipo": "FII",
+            "descricao": "BRCO11",
+            "valor": 117.98
+        },
+        {
+            "tipo": "AÇÃO",
+            "descricao": "CPFE3",
+            "valor": 352.9
+        },
+        {
+            "tipo": "FII",
+            "descricao": "HFOF11",
+            "valor": 79.7
+        },
+        {
+            "tipo": "FII",
+            "descricao": "HGLG11",
+            "valor": 164.8
+        },
+        {
+            "tipo": "FII",
+            "descricao": "HSML11",
+            "valor": 92.12
+        },
+        {
+            "tipo": "AÇÃO",
+            "descricao": "ITSA4",
+            "valor": 212.08
+        },
+        {
+            "tipo": "FII",
+            "descricao": "KNCR11",
+            "valor": 296.94
+        },
+        {
+            "tipo": "BDR",
+            "descricao": "M1TA34",
+            "valor": 105.98
+        },
+        {
+            "tipo": "FII",
+            "descricao": "MXRF11",
+            "valor": 106.5
+        },
+        {
+            "tipo": "AÇÃO",
+            "descricao": "PETR4",
+            "valor": 87.09
+        },
+        {
+            "tipo": "ETF",
+            "descricao": "SMAL11",
+            "valor": 215.58
+        },
+        {
+            "tipo": "Renda Variável - Outros",
+            "descricao": "TRBL11",
+            "valor": 100.0
+        },
+        {
+            "tipo": "BDR",
+            "descricao": "TSLA34",
+            "valor": 42.0
+        },
+        {
+            "tipo": "FII",
+            "descricao": "VISC11",
+            "valor": 120.11
+        },
+        {
+            "tipo": "FII",
+            "descricao": "XPLG11",
+            "valor": 114.0
+        }
+    ],
+    "resumo": {
+        "CDB": {
+            "valor_investido": 3321.38,
+            "valor_ajustado": 3321.38,
+            "porcentagem_investido": 57.64263227132152,
+            "porcentagem_ajustada": 53.8104488227391,
+            "porcentagem_ideal": 50,
+            "quantia_adicional": 0
+        },
+        "BDR": {
+            "valor_investido": 309.03000000000003,
+            "valor_ajustado": 309.03000000000003,
+            "porcentagem_investido": 5.363223314046116,
+            "porcentagem_ajustada": 5.0066668070775,
+            "porcentagem_ideal": 4,
+            "quantia_adicional": 0
+        },
+        "FII": {
+            "valor_investido": 1163.96,
+            "valor_ajustado": 1542.9899999998095,
+            "porcentagem_investido": 20.20055466659262,
+            "porcentagem_ajustada": 24.99833937369044,
+            "porcentagem_ideal": 25,
+            "quantia_adicional": 379.0299999998095
+        },
+        "AÇÃO": {
+            "valor_investido": 652.07,
+            "valor_ajustado": 652.07,
+            "porcentagem_investido": 11.31669102155147,
+            "porcentagem_ajustada": 10.56433752351236,
+            "porcentagem_ideal": 0,
+            "quantia_adicional": 0
+        },
+        "ETF": {
+            "valor_investido": 215.58,
+            "valor_ajustado": 246.90000000000205,
+            "porcentagem_investido": 3.7413962464552366,
+            "porcentagem_ajustada": 4.000084246407938,
+            "porcentagem_ideal": 4,
+            "quantia_adicional": 31.32000000000203
+        },
+        "Renda Variável - Outros": {
+            "valor_investido": 100.0,
+            "valor_ajustado": 100.0,
+            "porcentagem_investido": 1.7355024800330439,
+            "porcentagem_ajustada": 1.6201232265726624,
+            "porcentagem_ideal": 1,
+            "quantia_adicional": 0
+        }
+    },
+    "valor_em_conta": 5892.0,
+    "total_investido": 5762.02,
+    "patrimonio": 11654.02,
+    "aporte_necessario_para_igular": 410.34999999981153
+}
